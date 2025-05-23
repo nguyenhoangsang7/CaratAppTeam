@@ -30,4 +30,4 @@
 - Sử dụng chức năng sửa hoặc xóa để quản lý dữ liệu đã nhập.
 
 ## Liên hệ
-Mọi thắc mắc hoặc góp ý vui lòng liên hệ qua email: [leduckien060704@gmail.com]
+Mọi thắc mắc hoặc góp ý vui lòng liên hệ qua email: [sanghoangnguyen116@gmail.com]
